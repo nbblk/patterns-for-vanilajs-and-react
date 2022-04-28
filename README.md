@@ -14,27 +14,19 @@ paul
 실무 기술 스택에 사용되고 있는, 혹은 개념적으로 유사해서 꼭 숙지해야 디자인 패턴들을 빠르게 학습한다.
 
 ### 순서
---- 1w
 - singleton pattern
-- proxy pattern
---- 2w
+- proxy pattern ---1w
 - provider pattern
-- prototype pattern
---- 3w
+- prototype pattern ---2w
 - container/presentational pattern
-- observer pattern
---- 4w
+- observer pattern ---3w
 - module pattern
-- mixin pattern
---- 5w
+- mixin pattern ---4w
 - mediator/middleware pattern
-- render props pattern
---- 6w
+- render props pattern ---5w
 - hooks pattern
-- HOC pattern
---- 7w
+- HOC pattern ---6w
 - flyweight pattern
-- factory pattern
---- 8w
+- factory pattern ---7w
 - compound pattern
-- command pattern
+- command pattern ---8w🎉 
