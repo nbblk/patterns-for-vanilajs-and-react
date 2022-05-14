@@ -7,28 +7,34 @@
 Learning Patterns Patterns for building powerful web apps with vanilla JavaScript and React (Addy Osmani, Lydia Hallie)
 
 ### 스터디메이트
-paul
+paul, cent
 
 ### 방식
-매주 2챕터 학습 + 간단한 예제 프로그램 작성 후 일요일 저녁 한 시간 동안 zoom을 통해 리뷰한다.
+패턴을 가능한 빨리 학습하고(~21/5), 
+나머지 한 달은 패턴을 적용해보기 위한 미니 프로젝트를 진행하면서 zoom을 통해 리뷰한다(~21/6) 
 
 ### 목표
-실무 기술 스택에 사용되고 있는, 혹은 개념적으로 유사해서 꼭 숙지해야 디자인 패턴들을 빠르게 학습한다.
+es17 이후의 자바스크립트와 리액트에서 사용되고 있는, 혹은 개념적으로 유사해서 꼭 숙지해야 디자인 패턴들을 빠르게 학습한다.
+정형화된 패턴을 다른 코드에서 알아볼 수 있고, 각기 다른 패턴을 확실하게 구별할 수 있다(hopefully)
 
 ### 순서
 - [x] singleton pattern
-- [x] proxy pattern ---1w
-- [ ] provider pattern
-- [ ] prototype pattern ---2w
-- [ ] container/presentational pattern
-- [ ] observer pattern ---3w
-- [ ] module pattern
-- [ ] mixin pattern ---4w
-- [ ] mediator/middleware pattern
-- [ ] render props pattern ---5w
+- [x] proxy pattern -- 1w
+- [x] provider pattern
+- [x] prototype pattern -- 2w
+- [x] container/presentational pattern
+- [x] observer pattern
+- [x] module pattern
+- [x] mixin pattern
+- [x] mediator/middleware pattern -- 3w 오늘 
+- [ ] render props pattern 
 - [ ] hooks pattern
-- [ ] HOC pattern ---6w
+- [ ] HOC pattern 
 - [ ] flyweight pattern
-- [ ] factory pattern ---7w
+- [ ] factory pattern 
 - [ ] compound pattern
-- [ ] command pattern ---8w🎉 
+- [ ] command pattern -- 3w 내일
+- [ ] project -- 4w
+- [ ] project -- 5w
+- [ ] project -- 6w
+- [ ] project -- 7w
