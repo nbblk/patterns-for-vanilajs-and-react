@@ -15,7 +15,7 @@ paul, cent
 
 ### 목표
 es17 이후의 자바스크립트와 리액트에서 사용되고 있는, 혹은 개념적으로 유사해서 꼭 숙지해야 디자인 패턴들을 빠르게 학습한다.
-정형화된 패턴을 다른 코드에서 알아볼 수 있고, 각기 다른 패턴을 확실하게 구별할 수 있다(hopefully)
+정형화된 패턴을 다른 코드에서 알아볼 수 있고, 각기 다른 패턴을 확실하게 구별할 수 있다(hopefully???)
 
 ### 순서
 - [x] singleton pattern
@@ -30,8 +30,8 @@ es17 이후의 자바스크립트와 리액트에서 사용되고 있는, 혹은
 - [ ] render props pattern 
 - [ ] hooks pattern
 - [ ] HOC pattern 
-- [ ] flyweight pattern
-- [ ] factory pattern 
+- [x] flyweight pattern
+- [x] factory pattern 
 - [ ] compound pattern
 - [ ] command pattern -- 3w 내일
 - [ ] project -- 4w
