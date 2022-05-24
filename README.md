@@ -5,6 +5,7 @@
 
 ### 교재
 Learning Patterns Patterns for building powerful web apps with vanilla JavaScript and React (Addy Osmani, Lydia Hallie)
+https://patterns.dev
 
 ### 스터디메이트
 paul, cent
@@ -27,14 +28,14 @@ es17 이후의 자바스크립트와 리액트에서 사용되고 있는, 혹은
 - [x] module pattern
 - [x] mixin pattern
 - [x] mediator/middleware pattern -- 3w 오늘 
-- [ ] render props pattern 
-- [ ] hooks pattern
-- [ ] HOC pattern 
+- [x] render props pattern 
+- [x] hooks pattern
+- [x] HOC pattern 
 - [x] flyweight pattern
 - [x] factory pattern 
-- [ ] compound pattern
-- [ ] command pattern -- 3w 내일
-- [ ] project -- 4w
+- [x] compound pattern
+- [x] command pattern -- 3w 21/5 
+- [ ] project -- 4w 환경 셋팅, 기능 명세, 화면 목업
 - [ ] project -- 5w
 - [ ] project -- 6w
 - [ ] project -- 7w
